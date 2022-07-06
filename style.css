@@ -1,0 +1,29 @@
+li {
+    list-style-type: japanese-informal;
+}
+.once {
+    font-size: 1em;
+    color: cadetblue;
+}
+ul.twet {
+    color: cornflowerblue;
+    font-size: 20px;
+}
+a:hover {
+    text-decoration: none;
+}
+a:visited {
+    color: darkgreen;
+}
+.thrd {
+    border: dashed red;
+    /*border-right: 150px;*/
+    background-image: url(./img/pt.png);
+    transform: translate(300px) rotate(0.05turn) translateY(100px);
+}
+.hey {
+    transform: translate(200px);
+}
+body {
+    background-color: bisque;
+}
